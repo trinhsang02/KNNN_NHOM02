@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Em chào thầy!Th?y T�n dz 
-=======
-Em chào thầy!
-Thầy cho điểm khó quá :))
->>>>>>> 4fd4eb953df013ab02ed3bf1aed2d494a8e20e40
+loi phong chu hoai z
+
